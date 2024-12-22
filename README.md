@@ -1,6 +1,6 @@
 # Grid-Based Puzzle Game Framework with Level Editor
 
-This project is a grid-based puzzle game framework designed in Unity. It includes a customizable **Level Editor** to create and manage game levels directly within the Unity Editor. The system is modular, scalable, and designed to support various puzzle mechanics such as match-3 games or tile-based puzzles.
+This project is a grid-based puzzle game framework designed in Unity. It includes a customizable **Level Editor** to create and manage game levels directly within the Unity Editor. The system is modular, scalable, and designed to support various puzzle mechanics such as match-3 games or tile-based puzzles. For now, this project's mechanics are similar to the mechanics in "Toy Blast".
 
 ---
 
@@ -26,9 +26,9 @@ This project is a grid-based puzzle game framework designed in Unity. It include
 ## Prerequisites
 
 Ensure the following software is installed:
-- Unity Editor (tested with Unity 2021.3+)
+- Unity Editor (tested with Unity 2022.3+)
 - A compatible C# IDE
-- com.unity.feature.2d (Tutorial needs 2D)
+- Demigiant DOTween library (free version)
 
 ---
 
