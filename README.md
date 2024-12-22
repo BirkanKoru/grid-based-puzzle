@@ -23,6 +23,10 @@ This project is a grid-based puzzle game framework designed in Unity. It include
 
 ---
 
+![Image Sequence_001_0000](https://github.com/user-attachments/assets/aff100ac-ff0b-42b5-91b7-9b7fbf8940c2)
+
+---
+
 ## Prerequisites
 
 Ensure the following software is installed:
